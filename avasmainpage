@@ -1,0 +1,39 @@
+
+Result Size: 668 x 492
+h1
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{text-align: center;}
+ h2{ text-align: center;}
+ h1{ position: sticky}
+ button{background-color: lightgreen;
+ color: black;
+ button-align: center;
+ border:none;
+ margin: 0px;
+ padding: 15px 32px;
+  display: inline-block;
+  font-size: 30px;
+  Width: 200px;
+    transition-duration: 0.2s;
+  }
+  button:hover{ background-color: white}
+  p{text-align: center;
+}
+body{background-color: gainsboro;}
+​
+</style>
+</head>
+<body>
+<h1> Welcome! </h1>
+<button>Art</button>
+<button>Music</button>
+<button>Writing</button>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/vrAMRxBB5KI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+​
+​
+</body>
+</html>
+​
